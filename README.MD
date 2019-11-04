@@ -1,2 +1,1 @@
-"mean-app" 
-"# mean-app" 
+Aplicação em Angular 1.6
